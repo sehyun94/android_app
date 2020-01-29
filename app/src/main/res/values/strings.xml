@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ACTION</string>
+    <string name="image_preload_description">preload Intro Image</string>
+</resources>
